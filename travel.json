@@ -1,0 +1,105 @@
+[{
+        "id": 1,
+        "destinationName": "Paris",
+        "country": "France",
+        "description": "The City of Light is known for its romantic ambiance, iconic landmarks, and exquisite cuisine.",
+        "attractions": ["Eiffel Tower", "Louvre Museum", "Champs-Élysées"],
+        "bestTimeToVisit": "Spring and fall",
+        "currency": "Euro (€)",
+        "localTimezone": "Central European Time (CET)",
+        "photoUrl": "https://wwwnc.cdc.gov/travel/images/mountain-biker.jpg"
+    },
+    {
+        "id": 2,
+        "destinationName": "Tokyo",
+        "country": "Japan",
+        "description": "The bustling metropolis seamlessly blends tradition and modernity, offering futuristic technology alongside historic temples.",
+        "attractions": ["Shibuya Crossing", "Tokyo Skytree", "Asakusa Temple"],
+        "bestTimeToVisit": "Spring and autumn",
+        "currency": "Japanese Yen (¥)",
+        "localTimezone": "Japan Standard Time (JST)",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlknb_dfp53p-1UngNgDCVMaTyuj_YTydAsA&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "destinationName": "Rome",
+        "country": "Italy",
+        "description": "A city steeped in history and culture, Rome boasts ancient ruins, magnificent art, and delectable cuisine.",
+        "attractions": ["Colosseum", "Vatican Museums", "Trevi Fountain"],
+        "bestTimeToVisit": "Spring and fall",
+        "currency": "Euro (€)",
+        "localTimezone": "Central European Time (CET)",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDATt6lWCS-X-P30kyC0IwgghHhpO6pVaoXA&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "destinationName": "New York City",
+        "country": "United States",
+        "description": "The Big Apple is a melting pot of cultures, famous for its skyscrapers, theaters, and diverse neighborhoods.",
+        "attractions": ["Statue of Liberty", "Times Square", "Central Park"],
+        "bestTimeToVisit": "Spring and fall",
+        "currency": "US Dollar ($)",
+        "localTimezone": "Eastern Standard Time (EST)",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNBcbSi7R71tqozJHgux_VQGRKf0rYRWQ7iw&usqp=CAU"
+    }, {
+        "id": 5,
+        "destinationName": "Cairo",
+        "country": "Egypt",
+        "description": "The capital of Egypt, Cairo is known for its ancient pyramids, bustling markets, and rich history.",
+        "attractions": ["Giza Pyramids", "Egyptian Museum", "Khan El Khalili"],
+        "bestTimeToVisit": "Fall and winter",
+        "currency": "Egyptian Pound (EGP)",
+        "localTimezone": "Eastern European Time (EET)",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2gMG-nL5GrKguKPlJi_QnOkMbFoo0QLwUSg&usqp=CAU"
+    }, {
+        "id": 6,
+        "destinationName": "Sydney",
+        "country": "Australia",
+        "description": "Sydney offers stunning beaches, a picturesque harbor, and a vibrant arts scene.",
+        "attractions": ["Sydney Opera House", "Bondi Beach", "Sydney Harbour Bridge"],
+        "bestTimeToVisit": "Spring and summer",
+        "currency": "Australian Dollar ($)",
+        "localTimezone": "Australian Eastern Standard Time (AEST)",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8nI5qLtiiNNm618kGV1Txf29luSvA5OVtA&usqp=CAU"
+    }, {
+        "id": 7,
+        "destinationName": "Rio de Janeiro",
+        "country": "Brazil",
+        "description": "Famous for its Carnival festival and breathtaking landscapes, Rio de Janeiro is a city full of energy and culture.",
+        "attractions": ["Christ the Redeemer", "Copacabana Beach", "Sugarloaf Mountain"],
+        "bestTimeToVisit": "Fall and spring",
+        "currency": "Brazilian Real (R$)",
+        "localTimezone": "Brasília Time (BRT)",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlknb_dfp53p-1UngNgDCVMaTyuj_YTydAsA&usqp=CAU"
+    }, {
+        "id": 8,
+        "destinationName": "Bangkok",
+        "country": "Thailand",
+        "description": "Bangkok is a vibrant city known for its ornate temples, bustling markets, and lively street life.",
+        "attractions": ["Grand Palace", "Wat Arun", "Chatuchak Market"],
+        "bestTimeToVisit": "Cool and dry season",
+        "currency": "Thai Baht (฿)",
+        "localTimezone": "Indochina Time (ICT)",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8nI5qLtiiNNm618kGV1Txf29luSvA5OVtA&usqp=CAU"
+    }, {
+        "id": 9,
+        "destinationName": "Copenhagen",
+        "country": "Denmark",
+        "description": "Copenhagen is a city of modern design, historic architecture, and a strong emphasis on sustainability.",
+        "attractions": ["Tivoli Gardens", "The Little Mermaid", "Nyhavn"],
+        "bestTimeToVisit": "Late spring to early autumn",
+        "currency": "Danish Krone (DKK)",
+        "localTimezone": "Central European Time (CET)",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2gMG-nL5GrKguKPlJi_QnOkMbFoo0QLwUSg&usqp=CAU"
+    }, {
+        "id": 10,
+        "destinationName": "Bali",
+        "country": "Indonesia",
+        "description": "Known for its stunning beaches, lush landscapes, and vibrant culture, Bali is a tropical paradise.",
+        "attractions": ["Uluwatu Temple", "Ubud Monkey Forest", "Tanah Lot"],
+        "bestTimeToVisit": "Dry season (April to September)",
+        "currency": "Indonesian Rupiah (IDR)",
+        "localTimezone": "Central Indonesia Time (WITA)",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlknb_dfp53p-1UngNgDCVMaTyuj_YTydAsA&usqp=CAU"
+    }
+]
